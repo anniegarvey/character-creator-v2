@@ -1,0 +1,8 @@
+
+.perspectiveBar {
+    width: 100%;
+    height: 40svh;
+    background-color: hsl(195deg, 20%, 86%);
+    position: fixed;
+    bottom: 0;
+}
